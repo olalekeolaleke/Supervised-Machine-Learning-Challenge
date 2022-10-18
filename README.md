@@ -26,9 +26,6 @@ You will be creating and comparing two models on this data: a logistic regressio
 
 Create a LogisticRegression model, fit it to the data, and print the model's score. Do the same for a RandomForestClassifier. You may choose any starting hyperparameters you like. Which model performed better? How does that compare to your prediction? Write down your results and thoughts.
 
-## Rubric
-
-[Unit 19 - Supervised Machine Learning Homework Rubric](https://docs.google.com/document/d/1eZcQul7s2gy6h9flygyPdajSPUtqOQUuGL1XXcuX6p4/edit?usp=sharing)
 
 ### References
 
